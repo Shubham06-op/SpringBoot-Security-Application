@@ -1,6 +1,6 @@
 # SpringBoot-Security-Application
 
-This project is a **Security Application** built using **Spring Boot**. It demonstrates key security features such as user authentication, role-based authorization, and securing API access with **JWT (JSON Web Tokens)**. **PostgreSQL** is used for database management, storing user data and roles.
+This project is a **Security Application** built using **Spring Boot**. It demonstrates key security features such as user authentication, role-based authorization, and securing API access with **JWT (JSON Web Tokens)**. **MySQL** is used for database management, storing user data and roles.
 
 ## Features
 1. **User Authentication**: Secure login and session management.
